@@ -1,7 +1,7 @@
 
 public class HolaMundo {
 	public static void main(String[] args) {
-		System.out.println("El socio Economico");
+		System.out.println("Adios Hola Mundo!!!");
 	}
 
 }
